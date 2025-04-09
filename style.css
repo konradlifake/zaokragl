@@ -1,0 +1,13 @@
+html {
+    background-color: gray;
+    font-style: italic;
+    color: white;
+}
+.test {
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px;
+}
+#superdiv {
+    text-align: center;
+}
